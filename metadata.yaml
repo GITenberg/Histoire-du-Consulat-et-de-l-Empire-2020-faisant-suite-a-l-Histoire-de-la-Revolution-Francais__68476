@@ -1,0 +1,35 @@
+_repo: Histoire-du-Consulat-et-de-l-Empire-2020-faisant-suite-a-l-Histoire-de-la-Revolution-Francais__68476
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thiers, Adolphe
+    aliases:
+    - Thiers, A. (Adolphe)
+    - Thiers, Marie-Joseph-Louis-Adolphe
+    birthdate: 1797
+    deathdate: 1877
+    gutenberg_agent_id: '3191'
+    url: http://www.gutenberg.org/2009/agents/3191
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Adolphe_Thiers
+    - https://fr.wikipedia.org/wiki/Adolphe_Thiers
+description: ''
+gutenberg_issued: '2022-07-08'
+identifiers:
+  gutenberg: '68476'
+language: fr
+pgterms:marc905: 20060903093208thiers
+pgterms:marc906: '1845'
+pgterms:marc907: Fr
+production_note: Mireille Harmelin, Keith J Adams, Christine P. Travers and the Online
+  Distributed Proofreading Team at https://www.pgdp.net (This file was produced from
+  images generously made available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: France :Paulin,1845.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Histoire du Consulat et de l''Empire (20/20): faisant suite à l''''Histoire
+  de la Révolution Française'''
+url: http://www.gutenberg.org/ebooks/68476
